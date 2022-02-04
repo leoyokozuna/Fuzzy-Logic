@@ -14,7 +14,5 @@ Basically, polarimetric and non-polarimetric radar variables, plus variables der
 - The pixel is assigned the class with the highest aggregation value.
 
 All the volume radar data used in this notebook have been uploaded to the Data folder. Inside this folder there are three additional folders (bio, precipitation, clutter) that include a few data files for each class that have been used to train the algorithm. 
-I have obtained this data from the MinIo Browser: 
-https://fnwi-s0.science.uva.nl:9001/minio/pvol/
 
 The variables extracted from these files are collected in ‘csv’ files uploaded to the same Data folder: “bio_data.csv”, “precipitation_data.csv”, “clutter_data.csv”.
